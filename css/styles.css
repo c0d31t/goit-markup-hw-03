@@ -447,7 +447,7 @@ img {
     background: var(--primary-background-color);
 }
 
-.potfolio-title {
+.portfolio-title {
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -455,7 +455,7 @@ img {
     text-align: left;
 }
 
-.potfolio-text {
+.portfolio-text {
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
